@@ -1,0 +1,19 @@
+{
+  "name": "vehicle_location_tracking_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guenaguen40/Vehicle_Location_Tracking_System.git"
+  },
+  "author": "soumaya guenaguen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guenaguen40/Vehicle_Location_Tracking_System/issues"
+  },
+  "homepage": "https://github.com/Guenaguen40/Vehicle_Location_Tracking_System#readme"
+}
